@@ -1,4 +1,3 @@
-import React from "react";
 import Brand from "../Brand/Brand";
 import {
   BrandContainer,
@@ -10,7 +9,6 @@ import {
 import { BsGithub } from "react-icons/bs";
 import {FaDonate} from "react-icons/fa"
 import { Link } from "react-router-dom";
-import Button from "../Button/Button";
 
 const Navbar = () => {
   // need to have an image for the brandName

@@ -10,23 +10,18 @@ const Container = styled.main`
 `;
 
 const LanguageButtonContainer = styled.div`
-  border: red solid 1px;
 `;
 const DataTypeButtonContainer = styled.div`
-  border: red solid 1px;
 `;
 const Header = styled.header`
-  border: red solid 1px;
 `;
 const Form = styled.form`
   grid-column: 1/3;
-  border: red solid 1px;
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   grid-gap: 10px;
 `;
 const TextareaContainer = styled.div`
-    border: red solid 1px;
     padding: 20px 10px;
 `;
 
